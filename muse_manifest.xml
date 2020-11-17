@@ -1,0 +1,245 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.industriasquinto.com" resolutions="1x" timestamp="1605645485255">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="508398758" ref="index"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="419368845" ref="index"/>
+    <file name="index.css" crc="3993343066" ref="index"/>
+    <file name="nomq_index.css" crc="129611033" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u825.php" crc="505650717" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="526012485" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slider 1.png" crc="3843718539" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="slider 2.png" crc="4294172427" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slider 2.jpg" crc="481438899" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slider 3.jpg" crc="3823429030" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ba202005141923541460624.jpg" crc="3833787894" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="industrias quinto logo.png" crc="4279949101" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s.png" crc="3987611337" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fondo.png" crc="4056624105" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="descarga-crop-u1713.jpg" crc="529840362" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sello-alúmina-crop-u2063.png" crc="36273199" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linha-hidraulica-crop-u2023.jpg" crc="4041931495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tipo-pnl-1-570x321-crop-u2083.jpg" crc="3798441397" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rms1-crop-u2043.jpg" crc="4168893526" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="descarga.jpg" crc="5783287" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linha-hidraulica.jpg" crc="3821278327" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rms1-crop-u2037.jpg" crc="479968755" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sello-alúmina.png" crc="406215933" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tipo-pnl-1-570x321-crop-u2077.jpg" crc="316991239" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="123-crop-u1888.jpg" crc="4206872204" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="anillos en poliuretano-crop-u2180.jpg" crc="34661297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ventosa de poliuretano.jpg" crc="3928041738" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="123-crop-u1897.jpg" crc="135012227" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="anillos en poliuretano-crop-u2186.jpg" crc="306727523" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ventosa de poliuretano-crop-u2206.jpg" crc="35199967" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="marcador-de-posicion.png" crc="3933305954" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="llamada-telefonica.png" crc="86572942" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="smartphone-de-mano-grave.png" crc="50248172" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="correo-electronico.png" crc="4152881993" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="industrias metalmecánica quinto - tarjetas mate.png" crc="245645168" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8.png" crc="4199508" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rms1-crop-u20372.jpg" crc="59370011" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tipo-pnl-1-570x321.jpg" crc="4169429261" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="descarga-crop-u17132.jpg" crc="4233290637" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sello-alúmina75x57.png" crc="22180440" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tipo-pnl-1-570x32194x53.jpg" crc="3766215457" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rms1-crop-u20432.jpg" crc="3807228396" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="123.jpg" crc="127854845" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="anillos en poliuretano-crop-u21802.jpg" crc="3789365352" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="anillos en poliuretano-crop-u21862.jpg" crc="153333220" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ventosa de poliuretano75x61.jpg" crc="285643084" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s-u1390-fr.png" crc="394325638" ref="index"/>
+    <file name="fondo-u1587-fr.png" crc="3759809724" ref="index"/>
+    <file name="linha-hidraulica-crop-u2017.jpg" crc="366721832" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rms1-crop-u20373.jpg" crc="4113128367" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sello-alúmina-crop-u2057.png" crc="519788068" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tipo-pnl-1-570x321274x155.jpg" crc="3807298329" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="descarga-crop-u17133.jpg" crc="250416078" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sello-alúmina-crop-u20632.png" crc="4170855654" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linha-hidraulica-crop-u20232.jpg" crc="4075931652" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tipo-pnl-1-570x321-crop-u20832.jpg" crc="4107411142" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rms1-crop-u20433.jpg" crc="3867145338" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="123-crop-u18882.jpg" crc="3961260083" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="anillos en poliuretano-crop-u21803.jpg" crc="4277716196" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ventosa de poliuretano224x184.jpg" crc="3924150414" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="123-crop-u18972.jpg" crc="3778229460" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="anillos en poliuretano-crop-u21863.jpg" crc="4033957990" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ventosa de poliuretano-crop-u22062.jpg" crc="4260899764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4091891311" seo="true" mt="1605645420719" redirect="true"/>
+</manifest>
