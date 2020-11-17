@@ -1,31 +1,33 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.industriasquinto.com" resolutions="1x" timestamp="1605645485255">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.industriasquinto.com" resolutions="1x" timestamp="1605647120589">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-p_g_-maestra.css" crc="508398758" ref="index"/>
-    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="419368845" ref="index"/>
-    <file name="index.css" crc="3993343066" ref="index"/>
-    <file name="nomq_index.css" crc="129611033" ref="index"/>
+    <file name="master_a-p_g_-maestra.css" crc="508398758" ref="index:servicios"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="419368845" ref="index:servicios"/>
+    <file name="index.css" crc="225799917" ref="index"/>
+    <file name="nomq_index.css" crc="427673048" ref="index"/>
+    <file name="servicios.css" crc="5369350" ref="servicios"/>
+    <file name="nomq_servicios.css" crc="486013480" ref="servicios"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3939489907" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="3936894949" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index"/>
-    <file name="webpro.js" crc="3856315280" ref="index"/>
-    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
-    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:servicios"/>
+    <file name="museutils.js" crc="3939489907" ref="index:servicios"/>
+    <file name="whatinput.js" crc="86476730" ref="index:servicios"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:servicios"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:servicios"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:servicios"/>
+    <file name="webpro.js" crc="3856315280" ref="index:servicios"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:servicios"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:servicios"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:servicios"/>
     <file name="musewpdisclosure.js" crc="4294234138" ref="index"/>
-    <file name="jquery.musemenu.js" crc="4139692962" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:servicios"/>
     <file name="form_check.php" crc="4108222811" ref="index"/>
     <file name="form_throttle.php" crc="503802655" ref="index"/>
     <file name="form_process.php" crc="260214869" ref="index"/>
     <file name="form-u825.php" crc="505650717" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
-    <file name="require.js" crc="4177726516" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:servicios"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:servicios"/>
+    <file name="require.js" crc="4177726516" ref="index:servicios"/>
   </folder>
   <folder name="images">
     <file name="logo.png" crc="526012485" ref="index">
@@ -38,7 +40,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:servicios"/>
     <file name="slider 2.png" crc="4294172427" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -59,7 +61,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:servicios"/>
     <file name="industrias quinto logo.png" crc="4279949101" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -72,11 +74,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="fondo.png" crc="4056624105" ref="index">
+    <file name="fondo.png" crc="4056624105" ref="index:servicios">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
     </file>
     <file name="descarga-crop-u1713.jpg" crc="529840362" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -93,22 +96,30 @@
     <file name="rms1-crop-u2043.jpg" crc="4168893526" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="descarga.jpg" crc="5783287" seo="true" ref="index">
+    <file name="descarga.jpg" crc="5783287" seo="true" ref="index:servicios">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
     </file>
-    <file name="linha-hidraulica.jpg" crc="3821278327" seo="true" ref="index">
+    <file name="linha-hidraulica.jpg" crc="3821278327" seo="true" ref="index:servicios">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
     </file>
     <file name="rms1-crop-u2037.jpg" crc="479968755" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sello-alúmina.png" crc="406215933" seo="true" ref="index">
+    <file name="sello-alúmina.png" crc="406215933" seo="true" ref="index:servicios">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
     </file>
     <file name="tipo-pnl-1-570x321-crop-u2077.jpg" crc="316991239" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -119,9 +130,11 @@
     <file name="anillos en poliuretano-crop-u2180.jpg" crc="34661297" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ventosa de poliuretano.jpg" crc="3928041738" seo="true" ref="index">
+    <file name="ventosa de poliuretano.jpg" crc="3928041738" seo="true" ref="index:servicios">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
     </file>
     <file name="123-crop-u1897.jpg" crc="135012227" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -157,16 +170,20 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="8.png" crc="4199508" ref="index">
+    <file name="8.png" crc="4199508" ref="index:servicios">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
     </file>
     <file name="rms1-crop-u20372.jpg" crc="59370011" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tipo-pnl-1-570x321.jpg" crc="4169429261" seo="true" ref="index">
+    <file name="tipo-pnl-1-570x321.jpg" crc="4169429261" seo="true" ref="index:servicios">
       <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
     </file>
     <file name="descarga-crop-u17132.jpg" crc="4233290637" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -180,9 +197,11 @@
     <file name="rms1-crop-u20432.jpg" crc="3807228396" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="123.jpg" crc="127854845" seo="true" ref="index">
+    <file name="123.jpg" crc="127854845" seo="true" ref="index:servicios">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
     </file>
     <file name="anillos en poliuretano-crop-u21802.jpg" crc="3789365352" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -194,14 +213,14 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="s-u1390-fr.png" crc="394325638" ref="index"/>
-    <file name="fondo-u1587-fr.png" crc="3759809724" ref="index"/>
+    <file name="fondo-u1587-fr.png" crc="3759809724" ref="index:servicios"/>
     <file name="linha-hidraulica-crop-u2017.jpg" crc="366721832" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="rms1-crop-u20373.jpg" crc="4113128367" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sello-alúmina-crop-u2057.png" crc="519788068" seo="true" ref="index">
+    <file name="sello-alúmina-crop-u2057.png" crc="3769498108" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="tipo-pnl-1-570x321274x155.jpg" crc="3807298329" seo="true" ref="index">
@@ -240,6 +259,535 @@
     <file name="ventosa de poliuretano-crop-u22062.jpg" crc="4260899764" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="descarga-crop-u3516.jpg" crc="529840362" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="sello-alúmina-crop-u3524.png" crc="36273199" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="linha-hidraulica-crop-u3518.jpg" crc="4041931495" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="tipo-pnl-1-570x321-crop-u3522.jpg" crc="3798441397" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="rms1-crop-u3520.jpg" crc="4168893526" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="rms1-crop-u3503.jpg" crc="479968755" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="tipo-pnl-1-570x321-crop-u3505.jpg" crc="316991239" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="123-crop-u3553.jpg" crc="4206872204" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="anillos en poliuretano-crop-u3555.jpg" crc="34661297" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="123-crop-u3544.jpg" crc="135012227" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="anillos en poliuretano-crop-u3546.jpg" crc="306727523" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="ventosa de poliuretano-crop-u3542.jpg" crc="35199967" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="acoplamiento de disco-crop-u4620.jpg" crc="402804903" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="de rejilla-crop-u5181.jpg" crc="501710499" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="forjado, soldadura, etc-crop-u5391.jpg" crc="4059929299" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="acoplamiento-crop-u5013.jpg" crc="4023874752" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="elastomércios-crop-u5223.jpg" crc="217133349" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="gomafiltros-crop-u5433.jpg" crc="21449067" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="acoplamientos elastoméricos-crop-u5055.jpg" crc="62794078" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="elastoméricos-crop-u5265.jpg" crc="10238428" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="magnéticos-crop-u5475.jpg" crc="3818255213" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="couplings-crop-u5097.jpg" crc="4282648953" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="elemento flexible-crop-u5307.jpg" crc="3927990468" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="manguito-crop-u5517.jpg" crc="257216557" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="de cadena-crop-u5139.jpg" crc="89511459" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="engranaje-crop-u5349.jpg" crc="4255362199" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="acoplamiento de disco.jpg" crc="4195937413" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="acoplamiento.jpg" crc="442657815" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="acoplamientos elastoméricos.jpg" crc="39409313" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="couplings.jpg" crc="304882593" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="de cadena.jpg" crc="138763405" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="de rejilla.jpg" crc="4210804472" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="elastomércios.jpg" crc="41064197" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="elastoméricos.jpg" crc="4136818082" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="elemento flexible.jpg" crc="175720493" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="engranaje.jpg" crc="3917605647" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="forjado, soldadura, etc.jpg" crc="3760696244" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="gomafiltros.jpg" crc="4056358372" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="magnéticos.jpg" crc="3960151859" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="manguito.jpg" crc="3914322345" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="41so3uaqx0l_sx342_ql70_ml2_.jpg" crc="3992812868" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="descarga2.jpg" crc="312652955" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="haf4c1c968d1a4eeab1d5ee8d2a89c3ae6jpg_350x350.jpg" crc="180368828" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="htb1s05vkhri8kjjy0fpq6z5hvxamjpg_350x350.jpg" crc="4172405187" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="sello-mecanico-crop-u7702.jpg" crc="186127631" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="unnamed.png" crc="401847069" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="41so3uaqx0l_sx342_ql70_ml2_-crop-u5693.jpg" crc="3786488450" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="sello-mecanico-crop-u7714.jpg" crc="4018057824" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="descarga-crop-u7588.jpg" crc="4042648393" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="unnamed-crop-u7756.png" crc="3857909190" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="haf4c1c968d1a4eeab1d5ee8d2a89c3ae6jpg_350x350-crop-u7630.jpg" crc="3905390899" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="htb1s05vkhri8kjjy0fpq6z5hvxamjpg_350x350-crop-u7672.jpg" crc="4007257141" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="349260-00-d-745804-crop-u6908.jpg" crc="305993645" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="black-danco-o-rings-96728-64_1000-crop-u7838.jpg" crc="430104073" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="spare-classic-o-rings-crop-u7880.jpg" crc="4077142871" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="349260-00-d-745804-crop-u6942.jpg" crc="249834889" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="black-danco-o-rings-96728-64_1000-crop-u7826.jpg" crc="154093542" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="spare-classic-o-rings-crop-u7868.jpg" crc="4141618479" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="images.jpg" crc="483493973" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img_1971-crop-u7954.jpg" crc="404651055" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="industrial-5-crop-u7996.jpg" crc="4032609180" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="sograp011-crop-u8038.jpg" crc="165504512" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="images-crop-u6664.jpg" crc="3894386524" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img_1971-crop-u7966.jpg" crc="4088265483" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="industrial-5-crop-u8008.jpg" crc="534160627" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="sograp011-crop-u8050.jpg" crc="3946745884" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="fondo-u3498-fr.png" crc="4244776697" ref="servicios"/>
+    <file name="rms1-crop-u35032.jpg" crc="59370011" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="descarga-crop-u35162.jpg" crc="4233290637" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="rms1-crop-u35202.jpg" crc="3807228396" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="acoplamiento de disco-crop-u46202.jpg" crc="4211232300" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="couplings-crop-u50972.jpg" crc="3990090018" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="elastomércios-crop-u52232.jpg" crc="532465165" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="engranaje-crop-u53492.jpg" crc="3782997058" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="magnéticos-crop-u54752.jpg" crc="3940469160" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="acoplamiento-crop-u50132.jpg" crc="350768772" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="de cadena-crop-u51392.jpg" crc="4145331211" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="elastoméricos-crop-u52652.jpg" crc="387114692" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="forjado, soldadura, etc-crop-u53912.jpg" crc="3874509823" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="acoplamientos elastoméricos-crop-u50552.jpg" crc="456966631" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="de rejilla-crop-u51812.jpg" crc="3923639259" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="elemento flexible-crop-u53072.jpg" crc="506848166" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="349260-00-d-745804-crop-u69422.jpg" crc="231850418" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="black-danco-o-rings-96728-64_1000-crop-u78262.jpg" crc="4085458367" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="spare-classic-o-rings-crop-u78682.jpg" crc="14477478" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="349260-00-d-745804-crop-u69082.jpg" crc="4055573900" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="black-danco-o-rings-96728-64_1000-crop-u78382.jpg" crc="4224649538" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="spare-classic-o-rings-crop-u78802.jpg" crc="4215266342" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="anillos en poliuretano-crop-u35552.jpg" crc="3789365352" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="anillos en poliuretano-crop-u35462.jpg" crc="153333220" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="sello-mecanico.jpg" crc="460224288" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="41so3uaqx0l_sx342_ql70_ml2_-crop-u56932.jpg" crc="3879506437" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="sello-mecanico75x56.jpg" crc="4256861832" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="unnamed80x53.png" crc="4121441968" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="haf4c1c968d1a4eeab1d5ee8d2a89c3ae6jpg_350x350-crop-u76302.jpg" crc="179699014" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="htb1s05vkhri8kjjy0fpq6z5hvxamjpg_350x350-crop-u76722.jpg" crc="3972348601" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img_1971.jpg" crc="4016017627" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="industrial-5-crop-u79962.jpg" crc="315174425" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="sograp011.jpg" crc="4284274579" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img_197175x56.jpg" crc="3767158135" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="industrial-5-crop-u80082.jpg" crc="4232904269" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="sograp01175x56.jpg" crc="515477806" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="fondo-u3498-fr2.png" crc="55335489" ref="servicios"/>
+    <file name="linha-hidraulica-crop-u3501.jpg" crc="366721832" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="rms1-crop-u35033.jpg" crc="4113128367" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="sello-alúmina-crop-u3507.png" crc="519788068" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="descarga-crop-u35163.jpg" crc="250416078" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="sello-alúmina-crop-u35242.png" crc="4170855654" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="linha-hidraulica-crop-u35182.jpg" crc="4075931652" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="tipo-pnl-1-570x321-crop-u35222.jpg" crc="4107411142" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="rms1-crop-u35203.jpg" crc="3867145338" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="acoplamiento de disco-crop-u4604.jpg" crc="196992531" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="acoplamiento-crop-u5001.jpg" crc="3991941114" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="acoplamientos elastoméricos-crop-u5043.jpg" crc="229263103" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="couplings-crop-u5085.jpg" crc="465101511" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="de cadena-crop-u5127.jpg" crc="3825173473" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="de rejilla-crop-u5169.jpg" crc="204264072" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="elastomércios-crop-u5211.jpg" crc="331541092" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="elastoméricos-crop-u5253.jpg" crc="275668002" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="elemento flexible-crop-u5295.jpg" crc="4060052641" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="engranaje-crop-u5337.jpg" crc="4206218879" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="forjado, soldadura, etc-crop-u5379.jpg" crc="64149275" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="gomafiltros-crop-u5421.jpg" crc="4210369365" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="magnéticos-crop-u5463.jpg" crc="475251126" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="manguito-crop-u5505.jpg" crc="366442236" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="acoplamiento de disco-crop-u46203.jpg" crc="66106278" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="couplings-crop-u50973.jpg" crc="165776840" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="elastomércios-crop-u52233.jpg" crc="3982710679" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="engranaje-crop-u53493.jpg" crc="271050587" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="magnéticos-crop-u54753.jpg" crc="3974141809" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="acoplamiento-crop-u50133.jpg" crc="51122981" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="de cadena-crop-u51393.jpg" crc="4199999679" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="elastoméricos-crop-u52653.jpg" crc="230367472" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="forjado, soldadura, etc-crop-u53913.jpg" crc="401578827" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="manguito-crop-u55172.jpg" crc="3987634757" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="acoplamientos elastoméricos-crop-u50553.jpg" crc="3867889533" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="de rejilla-crop-u51813.jpg" crc="520863130" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="elemento flexible-crop-u53073.jpg" crc="482869170" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="gomafiltros-crop-u54332.jpg" crc="77313062" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="349260-00-d-745804-crop-u69423.jpg" crc="4261913800" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="black-danco-o-rings-96728-64_1000-crop-u78263.jpg" crc="4210185129" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="spare-classic-o-rings-crop-u78683.jpg" crc="3946461243" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="349260-00-d-745804-crop-u69083.jpg" crc="404847636" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="black-danco-o-rings-96728-64_1000-crop-u78383.jpg" crc="26694190" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="spare-classic-o-rings-crop-u78803.jpg" crc="493077763" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="123-crop-u35532.jpg" crc="3961260083" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="anillos en poliuretano-crop-u35553.jpg" crc="4277716196" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="123-crop-u35442.jpg" crc="3778229460" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="anillos en poliuretano-crop-u35463.jpg" crc="4033957990" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="ventosa de poliuretano-crop-u35422.jpg" crc="4260899764" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="41so3uaqx0l_sx342_ql70_ml2_-crop-u5681.jpg" crc="493929904" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="haf4c1c968d1a4eeab1d5ee8d2a89c3ae6jpg_350x350-crop-u7618.jpg" crc="3862791969" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="htb1s05vkhri8kjjy0fpq6z5hvxamjpg_350x350-crop-u7660.jpg" crc="115215512" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="sello-mecanico-crop-u77022.jpg" crc="3900807595" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="unnamed281x186.png" crc="3910912231" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="41so3uaqx0l_sx342_ql70_ml2_-crop-u56933.jpg" crc="4266047059" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="htb1s05vkhri8kjjy0fpq6z5hvxamjpg_350x350-crop-u76723.jpg" crc="293656126" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="descarga-crop-u75882.jpg" crc="4066610559" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="sello-mecanico-crop-u77142.jpg" crc="4006662614" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="haf4c1c968d1a4eeab1d5ee8d2a89c3ae6jpg_350x350-crop-u76303.jpg" crc="3965164901" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="unnamed-crop-u77562.png" crc="33293970" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="images-crop-u6653.jpg" crc="303148484" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img_1971-crop-u79542.jpg" crc="4289061747" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="industrial-5-crop-u79963.jpg" crc="4162949568" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="sograp011-crop-u80382.jpg" crc="371255305" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="images-crop-u66642.jpg" crc="464677920" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="sograp011-crop-u80502.jpg" crc="393535256" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img_1971-crop-u79662.jpg" crc="4279189468" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="industrial-5-crop-u80083.jpg" crc="377529070" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4091891311" seo="true" mt="1605645420719" redirect="true"/>
+  <file name="index.html" crc="55421121" seo="true" mt="1605646344086" redirect="true"/>
+  <file name="servicios.html" crc="261005246" seo="true" mt="1605646995899" redirect="true"/>
 </manifest>
